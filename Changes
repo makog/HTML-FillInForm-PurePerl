@@ -1,0 +1,12 @@
+Revision history for Perl extension HTML::FillInForm::PurePerl.
+
+0.97  Mon Aug 01 13:00:00 2011
+	- Bug fix
+
+0.94  Tur Oct 16 00:52:00 2008
+	- first release
+
+0.01  Sat May 26 16:48:31 2007
+	- original version; created by h2xs 1.23 with options
+		-X -a -n HTML::FillInForm::PurePerl
+
